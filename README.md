@@ -1,1 +1,4 @@
 # intelunnati_Singleton
+ ATPs are designed to collect payment from consumers by cash, cheque, or DD. It will be unmanned and can be operated by the customers 24/7. It accepts cash/cheque/DD/pay order, issues an acknowledgment on every payment made and is a touchscreen and multimedia-based system. When the customer places the voucher/bill in the designated slot under the barcode scanner, the ATP will automatically get started. Suitable prompts are provided for guidance.
+
+The ATP captures data from the voucher/bill and will display parameters on the monitor. A customer needs to choose the mode of payment. Once the amount is confirmed by the customer, the ATP will give directions on cash/cheque insertion. Parameters such as cheque number etc are read from the MICR fields and an acknowledgment is issued to the customer with the bill
